@@ -8,7 +8,7 @@
 // main is where program execution starts
 func main()
 {
-    println("Lets do some HackerRank stuff")
+    print("Lets do some HackerRank stuff")
 } // end of function main
 
 main()
