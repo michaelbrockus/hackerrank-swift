@@ -4,4 +4,11 @@
 // gmail: <michaelbrockus@gmail.com>
 //
 
-print("Lets do some HackerRank stuff")
+//
+// main is where program execution starts
+func main()
+{
+    println("Lets do some HackerRank stuff")
+} // end of function main
+
+main()
